@@ -4,4 +4,5 @@
 **/tmp
 **/__pycache__/
 **.pptx
-**/dev**/.exam/
+**/dev
+**/.exam/
